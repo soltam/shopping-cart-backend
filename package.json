@@ -1,0 +1,19 @@
+{
+  "name": "shopping-cart-backend",
+  "version": "1.0.0",
+  "description": "A backend service for shopping cart.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soltam/shopping-cart-backend.git"
+  },
+  "author": "Gautam Solaimalai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soltam/shopping-cart-backend/issues"
+  },
+  "homepage": "https://github.com/soltam/shopping-cart-backend#readme"
+}
